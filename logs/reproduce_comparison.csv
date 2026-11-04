@@ -1,0 +1,10 @@
+quantity,shipped,regenerated
+gen_s0_pf_state: share of sequences identical to the shipped samples,1.0,0.9635833333333332
+gen_s0_pf_state_nolabel: share of sequences identical to the shipped samples,1.0,0.9649666666666664
+"charge per residue, Spearman",0.987,0.987
+"esm2_matched gen_s0_pf_state: control, six-task mean",0.0219,0.021796822547912598
+"esm2_matched gen_s0_pf_state_nolabel: control, six-task mean",0.0212,0.021007627248764038
+"esm2_alllabels gen_s0_pf_state: control, six-task mean",0.0269,0.02692901094754537
+"esm2_alllabels gen_s0_pf_state_nolabel: control, six-task mean",0.0255,0.025475611289342243
+"esmc_matched gen_s0_pf_state: control, six-task mean",0.0124,0.012336259086926779
+"esmc_matched gen_s0_pf_state_nolabel: control, six-task mean",0.0116,0.011449187994003296

@@ -1,0 +1,11 @@
+torch==2.10.0
+transformers==5.8.1
+esm==3.2.0
+xgboost==3.2.0
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+rapidfuzz==3.14.5
+matplotlib==3.10.8
+biopython==1.88
+tqdm>=4.66

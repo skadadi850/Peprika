@@ -1,0 +1,8 @@
+weights/
+dist/
+logs/*.log
+results/rerun/
+figures/
+__pycache__/
+data/
+runs/

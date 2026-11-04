@@ -1,0 +1,10 @@
+task,nearest_neighbor_homology,nearest_neighbor_random,combined_homology,combined_random,random_test_fraction_ge_070
+antibacterial,0.577,0.887,0.891,0.918,0.814
+antifungal,0.477,0.852,0.683,0.807,0.794
+anticancer,0.571,0.824,0.804,0.771,0.782
+antiinflammatory,0.618,0.572,0.737,0.801,0.036
+hemolytic,0.777,0.814,0.79,0.833,0.851
+antiviral,0.811,0.867,0.636,0.85,0.747
+cytotoxic,0.818,0.747,0.783,0.889,0.797
+antitubercular,0.882,0.914,0.941,0.803,0.826
+antibiofilm,0.774,0.66,0.919,0.595,0.759

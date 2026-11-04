@@ -1,0 +1,12 @@
+task,active,active_annotation,active_measurement,active_explicit,inactive,inactive_measurement,inactive_explicit,inactive_over_annotation,unknown,val_inactive,test_inactive,fixed_split_evaluable,splits_sum_to_total
+antibacterial,40606,30532.0,10074.0,0.0,731,85.0,0.0,646.0,5782,73,73,True,True
+antifungal,2632,191.0,2441.0,0.0,336,326.0,0.0,10.0,44151,45,45,True,True
+anticancer,2757,2103.0,654.0,0.0,878,23.0,830.0,25.0,43484,96,97,True,True
+antiviral,1967,1886.0,81.0,0.0,270,8.0,259.0,3.0,44882,31,33,True,True
+antibiofilm,441,0.0,441.0,0.0,23,23.0,0.0,0.0,46655,3,3,False,True
+antiparasitic,258,139.0,119.0,0.0,3,3.0,0.0,0.0,46858,0,0,False,True
+antitubercular,154,0.0,154.0,0.0,35,35.0,0.0,0.0,46930,5,5,False,True
+antiinflammatory,1680,1680.0,0.0,0.0,2516,0.0,2516.0,0.0,42923,251,251,True,True
+hemolytic,1355,0.0,464.0,891.0,1213,228.0,985.0,0.0,44551,135,139,True,True
+cytotoxic,896,0.0,896.0,0.0,185,185.0,0.0,0.0,46038,24,21,False,True
+any_antimicrobial,41044,,,,791,,,,5284,74,83,True,

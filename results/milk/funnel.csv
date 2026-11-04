@@ -1,0 +1,7 @@
+step,peptides,homolog,antimicrobial,other
+all rows,11612,770,50,720
+species Human,8037,127,50,77
+modifications blank,6448,119,46,73
+"8 to 50 residues, 20 standard",6346,115,46,69
+deduplicated,6346,115,46,69
+max similarity to corpus below 0.5,4642,26,0,26

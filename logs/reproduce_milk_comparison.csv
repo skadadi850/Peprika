@@ -1,0 +1,6 @@
+task,spearman_to_shipped,above_shipped,above_regenerated
+antibacterial,0.9999999998591351,34,34
+antifungal,0.999999999953045,368,368
+anticancer,0.99999999990609,280,280
+antiviral,0.999999999953045,207,207
+antiinflammatory,0.999999999953045,1516,1516

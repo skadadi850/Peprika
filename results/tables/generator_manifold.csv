@@ -1,0 +1,9 @@
+model,n_valid_unique,n_used,precision,recall
+reference_train,5000,4000,0.6405,0.8765
+hydramp,4984,4000,0.4145,0.62825
+hydramp_retrained,5000,4000,0.6925,0.538
+omegamp,4367,4000,0.6675,0.88775
+omegamp_retrained,4983,4000,0.56625,0.8005
+ours_s0,4997,4000,0.64875,0.8325
+ours_s1,4994,4000,0.6505,0.8095
+ours_s2,4994,4000,0.65475,0.792
